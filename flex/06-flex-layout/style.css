@@ -20,6 +20,7 @@ ul {
     display: flex;
     justify-content: space-between;
     position: static;
+    color: grey;
 }
 
 
@@ -35,6 +36,7 @@ ul {
     padding-left: 0;
     margin-left: 1em;
     gap: 10px;
+    color: red;
 }
 
 .right-links {
@@ -73,6 +75,7 @@ input {
 
 a {
     text-decoration: none;
+    color: darkgrey;
 }
 
 .buttons {
